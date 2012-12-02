@@ -5,11 +5,11 @@
 ** Login   <ignati_i@epitech.net>
 ** 
 ** Started on  Sat Nov 10 19:55:29 2012 ivan ignatiev
-** Last update Sun Nov 11 18:24:02 2012 ivan ignatiev
+** Last update Sun Dec  2 17:52:08 2012 ivan ignatiev
 */
 
 #ifndef ARRAYMY_H_
-#	define ARRAYMY_H_
+# define ARRAYMY_H_
 
 char	**my_array_from_array(char **arr);
 char	**my_split_string(char *str, char *separator,
